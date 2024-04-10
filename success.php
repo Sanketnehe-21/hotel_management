@@ -9,6 +9,6 @@
 </head>
 <body>
     <h1>Your Booking is Successfull !</h1>
-    <!-- <h2><a href="http://localhost/phpmyadmin/sql.php?db=dc2019mca0009&table=room_details&pos=0">Click in the link </a>to view Data on <span>phpmyadmin Database</span> . </h2> -->
+    <h2><a href="http://localhost/phpmyadmin/sql.php?db=dc2019mca0009&table=room_details&pos=0">Click in the link </a>to view Data on <span>phpmyadmin Database</span> . </h2>
 </body>
 </html>
